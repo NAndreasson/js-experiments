@@ -1,0 +1,14 @@
+{
+	"name": "node-testing",
+  "version": "0.1.0",
+  "description": "Testing testing in node",
+  "author": "Niklas Andréasson <andreasson.n@gmail.com>",
+
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  }
+}
